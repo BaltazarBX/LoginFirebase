@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360287585984",
+    "project_id": "proyecto1-74442",
+    "storage_bucket": "proyecto1-74442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360287585984:android:e88faa0bdf798ea5420f25",
+        "android_client_info": {
+          "package_name": "com.example.loginfireface"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiq4fXKt7SdbA0UDE6cdoA3yInC_X9G0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
